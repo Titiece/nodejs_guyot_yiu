@@ -1,0 +1,20 @@
+{
+	"name": "asynchronous server technologies",
+	"description":"class@ ece",
+	"version": "0.0.1",
+	"author":{
+		"name":"titi",
+		"website":"",
+	}
+	"dependencies":{
+		"mymodule":"1.2.y",
+		"mymodule":"~1.2.x",
+		"mymodule":">=1.2.z",
+		"mymodule":"*",
+		"mylocalmodul":"file:./hello.js",
+		"mygithubmodule":"git_account/module#rgrtgt"
+	},
+	"devDependencies":{
+		"test-module":"*"
+	}
+}
